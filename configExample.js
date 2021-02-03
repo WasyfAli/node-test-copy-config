@@ -3,5 +3,5 @@
 module.exports = {
   endpoint: process.env.API_URL,
   masterKey: process.env.API_KEY,
-  port: 8437
+  port: 9000
 };
